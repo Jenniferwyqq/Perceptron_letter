@@ -5,7 +5,7 @@ Project 1 - Group 5
 Professor: Kenytt Avery
 
 Team members: 
-Jennifer Wu，chihyi1126@csu.fullerton.edu
+Jennifer Wu, chihyi1126@csu.fullerton.edu /n
 Ying Luo, yingluo_holiday@csu.fullerton.edu
 Xiaotian Ma, xiaotianma@csu.fullerton.edu
 
